@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HEXNCOLOMBIA/DOX-BASE-2011-/blob/main/assets/logo.jpg" width="500">
+  <img src="https://github.com/HEXNCOLOMBIA/ADRES-DOX-/blob/main/assets/logo.png" width="500">
 </p>
 
 # ADRES DOX AUTOMATIZADA 
