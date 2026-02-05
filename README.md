@@ -35,7 +35,7 @@ es una automatizacion de busquedas desde la pagina de adres con esto sirve para 
 **Windows / Linux**
 
 ```bash
-git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
+git clone https://github.com/HEXNCOLOMBIA/ADRES-DOX-
 cd DOX-BASE-2011-
 python orc_.py
 ```
@@ -45,7 +45,7 @@ python orc_.py
 ```bash
 pkg update -y
 pkg install python git -y
-git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
+git clone https://github.com/HEXNCOLOMBIA/ADRES-DOX-
 cd DOX-BASE-2011-
 python orc_.py
 ```
