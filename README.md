@@ -36,7 +36,7 @@ es una automatizacion de busquedas desde la pagina de adres con esto sirve para 
 
 ```bash
 git clone https://github.com/HEXNCOLOMBIA/ADRES-DOX-
-cd DOX-BASE-2011-
+cd ADRES-DOX-
 python orc_.py
 ```
 
@@ -46,7 +46,7 @@ python orc_.py
 pkg update -y
 pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/ADRES-DOX-
-cd DOX-BASE-2011-
+cd ADRES-DOX-
 python orc_.py
 ```
 **actualizar repo*
