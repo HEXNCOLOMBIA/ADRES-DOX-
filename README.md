@@ -66,3 +66,17 @@ Este proyecto es únicamente con fines **De investigacion **. El autor no se hac
 ---
 
 ## 👨‍💻 Autor
+
+ORC ORGANIZACION 
+BY HEXXN_x
+
+
+## DONACIONES 
+
+Recibimos donaciones o aportes para seguir con el proyecto 
+
+
+🌟𝗡𝗘𝗤𝗨𝗜:  3159674675
+🌟𝗗𝗔𝗩𝗜𝗣𝗟𝗔𝗧𝗔: none 
+🛠 LAVE 1: @NEQUIMAR745036
+✅LAVE 2  none
