@@ -37,7 +37,7 @@ es una automatizacion de busquedas desde la pagina de adres con esto sirve para 
 ```bash
 git clone https://github.com/HEXNCOLOMBIA/ADRES-DOX-
 cd ADRES-DOX-
-python orc_.py
+adres_orc.py
 ```
 
 **Termux (Android)**
@@ -47,9 +47,9 @@ pkg update -y
 pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/ADRES-DOX-
 cd ADRES-DOX-
-python orc_.py
+adres_orc.py
 ```
-**actualizar repo*
+**actualizar repo en caso de actualizar**
 
 ```bash
 git pull
