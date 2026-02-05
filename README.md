@@ -11,7 +11,7 @@ es una automatizacion de busquedas desde la pagina de adres con esto sirve para 
 
 ---
 
-## 🚀 Características
+##  Características de la herramienta 
 
 - Interfaz  🔧
 - Menú interactivo
@@ -22,18 +22,19 @@ es una automatizacion de busquedas desde la pagina de adres con esto sirve para 
 
 ---
 
-## 📦 Requisitos
+## Requisitos
 
-- **Python 3.8** o superior
-- Conexión a Internet
+- **Python 3.8** o 3.10
+- conexion a internet 
 
 
 ---
 
-## 🛠 Instalación
-
+##  disponible para 
 **Windows / Linux**
 
+
+##  Instalación
 ```bash
 git clone https://github.com/HEXNCOLOMBIA/ADRES-DOX-
 cd ADRES-DOX-
